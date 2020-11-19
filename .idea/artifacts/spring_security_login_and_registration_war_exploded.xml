@@ -11,7 +11,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="spring-security-login-and-registration" />
+          <element id="module-output" name="mooc_site" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-web:2.2.5.RELEASE" />
@@ -119,7 +119,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/spring-security-login-and-registration/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="spring-security-login-and-registration/web/Web" />
+      <element id="javaee-facet-resources" facet="mooc_site/web/Web" />
     </root>
   </artifact>
 </component>
